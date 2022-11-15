@@ -1,14 +1,11 @@
-# Attila
+# Attilance
 
+A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/) based on [Attila](https://attila.zutrinken.com/).
 A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [attila.peteramende.de](https://attila.peteramende.de/)
-
-## ♥️ Support
-
-You can [buy me a drink](https://paypal.me/zutrinken) if you enjoy using Attila. Cheers 🍻
 
 ## 📷 Screenshot
 
-<img src="https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot.png" />
+
 
 ## ⭐️ Features
 
