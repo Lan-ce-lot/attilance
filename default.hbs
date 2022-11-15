@@ -13,7 +13,8 @@
 
 	{{!-- Styles'n'Scripts --}}
 	<link rel="stylesheet" type="text/css" href="{{asset "css/style.css"}}" />
-
+	<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/firacode@2.0.0/distr/fira_code.min.css" />
+	<link rel="stylesheet" href="//highlightjs.org/static/demo/styles/vs2015.css">
 	<script>
 			var siteUrl = '{{@site.url}}';
 	</script>
@@ -92,7 +93,7 @@
 				{{#if @site.secondary_navigation}}
 				{{navigation type="secondary"}}
 				{{/if}}
-				<span class="nav-credits">{{t "Published with"}} <a href="https://ghost.org">Ghost</a> &bull; {{t "Theme" }} <a href="https://github.com/zutrinken/attila">Attila</a> &bull; <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme"><span class="theme-icon"></span><span class="theme-text">System theme</span> </a> </span>
+				{{!-- <span class="nav-credits">{{t "Published with"}} <a href="https://ghost.org">Ghost</a> &bull; {{t "Theme" }} <a href="https://github.com/zutrinken/attila">Attila</a> &bull; <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme"><span class="theme-icon"></span><span class="theme-text">System theme</span> </a> </span> --}}
 			</nav>
 		</div>
 

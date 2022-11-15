@@ -1,5 +1,5 @@
 {
-  "name": "attila",
+  "name": "attilance",
   "description": "Ghost Theme",
   "demo": "https://attila.peteramende.de",
   "version": "3.6.1",
@@ -7,14 +7,10 @@
     "ghost": ">=5.0.0"
   },
   "license": "MIT",
-  "screenshots": {
-    "desktop": "src/screenshot-desktop.jpg",
-    "mobile": "src/screenshot-mobile.jpg"
-  },
   "author": {
-    "name": "Peter Amende",
-    "email": "hey@peteramende.de",
-    "url": "https://peteramende.de"
+    "name": "Lancelot",
+    "email": "lance_hcs@outlook.com",
+    "url": "http://blog.lancelot.top/"
   },
   "gpm": {
     "type": "theme",

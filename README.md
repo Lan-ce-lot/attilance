@@ -1,7 +1,6 @@
 # Attilance
 
 A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/) based on [Attila](https://attila.zutrinken.com/).
-A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [attila.peteramende.de](https://attila.peteramende.de/)
 
 ## 📷 Screenshot
 
@@ -9,14 +8,12 @@ A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost
 
 ## ⭐️ Features
 
-* Theme options
 * Responsive layout
-* Light and Dark Mode
-* Search support
+* Dark Mode
+* Search
 * Post reading progress
 * Code highlight including line numbers
-* Comments and Disqus (Theme option)
-* Ghost accent color
+* Disqus support
 
 ## 🌍 Localization
 
